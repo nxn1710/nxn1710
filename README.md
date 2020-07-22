@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**nxn1710/nxn1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 <img src="https://github.githubassets.com/images/mona-whisper.gif" width="140" height="140" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
