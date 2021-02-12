@@ -79,23 +79,23 @@ Connect with me🤝:
 ### My Projects ✨:
   
 <a href="https://github.com/ForFunSE1404/Appleshop_PRJ321">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Background-generator&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Appleshop_PRJ321&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/nxn1710/Mini-Market-Management-Software">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=robofriends&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Mini-Market-Management-Software&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/nxn1710/discord_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Picture-Sharing-app&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=discord_bot&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/nxn1710/ValidatorForm">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Chat-app&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=ValidatorForm&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/nxn1710/shoppingcart_react-redux">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Quiz-App&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=shoppingcart_react-redux&theme=tokyonight" />
 </a>
 
 
