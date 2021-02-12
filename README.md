@@ -1,5 +1,5 @@
 ### About me🧑:
-My name is Nguyen Xuan Nghiep,20 years old and I'm a Software Engineering student at FPT University Da Nang.
+My name is Nguyen Xuan Nghiep, 20 years old and I'm a Software Engineering student at FPT University Da Nang.
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" height="280" />
 
@@ -79,7 +79,7 @@ Connect with me🤝:
 ### My Projects ✨:
   
 <a href="https://github.com/ForFunSE1404/Appleshop_PRJ321">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Appleshop_PRJ321&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ForFunSE1404&repo=Appleshop_PRJ321&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/nxn1710/Mini-Market-Management-Software">
