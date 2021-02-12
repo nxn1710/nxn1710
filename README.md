@@ -1,5 +1,5 @@
 ### About me🧑:
-My name is Nguyen Xuan Nghiep, I'm 20 years old and I'm a Software Engineering student at FPT University Da Nang.<br/>
+My name is Nguyen Xuan Nghiep,20 years old <br/> and I'm a Software Engineering student at FPT University Da Nang.
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" height="280" />
 
@@ -16,9 +16,7 @@ My name is Nguyen Xuan Nghiep, I'm 20 years old and I'm a Software Engineering s
 ---
 
 <details>
-<summary>
 Languages and Tools🛠:
-</summary>
   <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -41,32 +39,24 @@ Languages and Tools🛠:
 ---
 
 <details>
-<summary> Connect with me🤝: </summary>  
-
+ Connect with me🤝:
 <br/>
 
-<a href="https://t.me/Dave_bhandari">
-  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+
+<a href="https://github.com/nxn1710">
+  <img align="left" alt="Nghiep's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://github.com/Davekibh">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+<a href="https://instagram.com/nguyenxuannghiep/">
+  <img align="left" alt="Nghiep's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
-<a href="https://instagram.com/Dave_bhandari/">
-  <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+<a href="https://www.facebook.com/nxn1710">
+  <img align="left" alt="Nghiep's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="https://www.facebook.com/people/Dave-Bhandari/100005906536571">
-  <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<a href="https://twitter.com/dave_bhandari">
-  <img align="left" alt="Dave's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+<a href="https://linkedin.com/in/nxn1710/">
+  <img align="left" alt="Nghiep's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
@@ -77,12 +67,12 @@ Languages and Tools🛠:
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+<a href="https://github.com/nxn1710">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxn1710&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/nxn1710">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nxn1710&show_icons=true&theme=tokyonight&line_height=27" alt="Nghiep's github stats"/>
 </a>
 
 <br/>
@@ -91,28 +81,24 @@ Languages and Tools🛠:
 
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/ForFunSE1404/Appleshop_PRJ321">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Background-generator&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://github.com/nxn1710/Mini-Market-Management-Software">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=robofriends&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+<a href="https://github.com/nxn1710/discord_bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Picture-Sharing-app&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+<a href="https://github.com/nxn1710/ValidatorForm">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Chat-app&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+<a href="https://github.com/nxn1710/shoppingcart_react-redux">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Quiz-App&theme=tokyonight" />
 </a>
 
 
