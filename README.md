@@ -8,8 +8,7 @@ My name is Nguyen Xuan Nghiep, 20 years old and I'm a Software Engineering stude
 - 🤔 I’m looking for help with Fullstack Web development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=nxn1710)
+- 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=nxn1710)
 
 <br/>
 
