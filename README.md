@@ -15,24 +15,6 @@ My name is Nguyen Xuan Nghiep, 20 years old and I'm a Software Engineering stude
 
 ---
 
-Languages and Tools🛠:
-  <br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
-<code><img height="20" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://pivotal.gallerycdn.vsassets.io/extensions/pivotal/vscode-boot-dev-pack/0.0.8/1537205812649/Microsoft.VisualStudio.Services.Icons.Default"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
-<code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-
----
-
 Connect with me🤝:
 
 <br/>
@@ -69,31 +51,6 @@ Connect with me🤝:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nxn1710&show_icons=true&theme=tokyonight&line_height=27" alt="Nghiep's github stats"/>
 </a>
 
-<br/>
-<br/>
-<br/>
-
-### My Projects ✨:
-  
-<a href="https://github.com/ForFunSE1404/Appleshop_PRJ321">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ForFunSE1404&repo=Appleshop_PRJ321&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/nxn1710/Mini-Market-Management-Software">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=Mini-Market-Management-Software&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/nxn1710/discord_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=discord_bot&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/nxn1710/ValidatorForm">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=ValidatorForm&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/nxn1710/shoppingcart_react-redux">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn1710&repo=shoppingcart_react-redux&theme=tokyonight" />
-</a>
 
 
 <div align="center">
